@@ -182,12 +182,12 @@ function App() {
         <p>
           GitHub: &nbsp;
           <a
-            href="https://github.com/huccct/fake-screenshot"
+            href="https://github.com/hiing/fake-screenshot"
             target="_blank"
             rel="noopener noreferrer"
             className="underline"
           >
-            https://github.com/huccct/fake-screenshot
+            https://github.com/hiing/fake-screenshot
           </a>
         </p>
       </footer>
